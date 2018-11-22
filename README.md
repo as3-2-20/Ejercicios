@@ -1,1 +1,2 @@
-# ejercicios
+# Ejercicios
+Jonathan Vidal Magro
