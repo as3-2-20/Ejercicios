@@ -1,0 +1,4 @@
+String = Caracteres.
+Integer = Numero entero.
+Float = Numero con coma.
+Boolean = True o Falase.
